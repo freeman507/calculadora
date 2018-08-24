@@ -10,4 +10,7 @@ mult = (a, b) => {
     return a * b;
 }
 
+div = (a,b) => {
+    return a/b;
+}
 console.log(sum(2,3));
