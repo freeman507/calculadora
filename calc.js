@@ -2,4 +2,8 @@ sum = (a,b) => {
     return a + b;
 }
 
+sub = (a,b) => {
+    return a - b;
+}
+
 console.log(sum(2,3));
