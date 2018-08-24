@@ -17,3 +17,4 @@ div = (a,b) => {
 console.log(sum(2,3));
 console.log(sub(10,2));
 console.log(mult(2,5));
+console.log(div(100,2));
